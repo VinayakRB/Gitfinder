@@ -23,6 +23,7 @@ An app that searches for users in Github using React and API
 6. Create a file named ".env.local" in project's root directory enter the following :
 
    GF_GITHUB_CLIENT_ID:'enter your client id'
+   
    GF_GITHUB_CLIENT_SECRET:'enter your client secret'
 
 7. Final Command : npm start
